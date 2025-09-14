@@ -1,4 +1,4 @@
-# Task Management Web Application
+# Task Management Web Application - Vibe Coded using Cursor AI
 
 A simple and secure task management web application built with Flask and SQLite3. This application provides user authentication, task CRUD operations, and filtering capabilities.
 
